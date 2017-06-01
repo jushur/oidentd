@@ -1,2 +1,5 @@
 # oidentd
-simple to understand default config
+Simple to understand default config.
+
+Place the file at /etc/oidentd.conf .
+Restart service (on a systemd based system, systemctl restart oidentd).
